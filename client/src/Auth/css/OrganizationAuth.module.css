@@ -1,0 +1,39 @@
+.authcontainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 70vh;
+  width: auto;
+  /* border: 2px solid red; */
+}
+
+.errormessage {
+  color: #f00606;
+  font-size: smaller;
+}
+
+.custom {
+  width: 80%;
+  /* border: 2px solid green; */
+}
+
+.cust1 {
+  margin-top: 5vh;
+}
+
+.bord {
+  /* border: 2px solid red; */
+  background-color: #fefefe;
+  box-shadow: 0 2px 4px rgba(0, 37, 250, 0.2);
+  padding: 10px;
+  height: 70vh;
+}
+
+.custom-form {
+  width: 100vh;
+}
+
+.cont {
+  /* border: 2px solid red; */
+  /* overflow: hidden; */
+}

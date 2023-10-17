@@ -1,0 +1,27 @@
+.authcontainerG {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  width: auto;
+}
+
+.xyzG {
+  /* border: 2px solid red; */
+  width: 100%;
+  max-width: 600px;
+}
+
+.bordG {
+  background-color: #fefefe;
+  box-shadow: 0 2px 4px rgba(0, 37, 250, 0.2);
+  padding: 20px;
+}
+
+.cust1G {
+  margin-top: 5vh;
+}
+
+.errormessage {
+  color: red;
+}

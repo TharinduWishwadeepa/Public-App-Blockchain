@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+.getnic {
+  text-align: center;
+}
+
+.error-message {
+  color: #f00606;
+  font-size: smaller;
+}

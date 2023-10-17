@@ -1,0 +1,11 @@
+.orgcontainer {
+  width: 100%; /* Adjust the width value as needed */
+  /* overflow: hidden; */
+  margin: 0 auto; /* Center the card horizontally */
+  margin-top: 20vh;
+}
+
+.orgdetails {
+  margin-top: 6vh;
+  overflow-x: hidden;
+}
